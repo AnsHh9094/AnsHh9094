@@ -1,4 +1,25 @@
-## 🧑💻 About Me
+<div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Ansh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Typing Animation -->
+<a href="https://github.com/AnsHh9094">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=AnsHh9094&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/AnsHh9094)
+[![GitHub followers](https://img.shields.io/github/followers/AnsHh9094?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27)](https://github.com/AnsHh9094?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AnsHh9094?label=Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27)](https://github.com/AnsHh9094)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 ```javascript
 const ansh = {
@@ -54,36 +75,66 @@ const ansh = {
 
 ---
 
-## 🖥️ My Workspace
+## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b>OS</b></td>
-      <td>Windows 11</td>
-    </tr>
-    <tr>
-      <td><b>Editor</b></td>
-      <td>VS Code (Tokyo Night Theme)</td>
-    </tr>
-    <tr>
-      <td><b>Font</b></td>
-      <td>Fira Code (with ligatures)</td>
-    </tr>
-    <tr>
-      <td><b>Fuel</b></td>
-      <td>Coffee ☕</td>
-    </tr>
-  </table>
+
+<a href="https://github.com/AnsHh9094/antiAFK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=antiAFK&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+<a href="https://github.com/AnsHh9094/nextjs-commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=nextjs-commerce&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/AnsHh9094/folioss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=folioss&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+<a href="https://github.com/AnsHh9094/customer-reviews-ai-summary-nextjs-vercel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=customer-reviews-ai-summary-nextjs-vercel&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
 </div>
 
 ---
 
-## 😂 Random Dev Joke
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnsHh9094&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnsHh9094&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsHh9094&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Readme Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)](https://github.com/15Galan/readme-jokes)
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnsHh9094&bg_color=1a1b27&color=628fdb&line=6366f1&point=ffffff&area=true&hide_border=true&radius=16)](https://github.com/AnsHh9094)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=AnsHh9094&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -101,6 +152,25 @@ const ansh = {
 
 </div>
 
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
 ---
 
 <!-- ASCII Art -->
@@ -174,17 +244,6 @@ xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx::.............................:::::.......
 ...............................::::::.......::::::;&&&&&&&:...........+&&&&&&&$;::::::::::::::::::::......................
 ```
 
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
 
