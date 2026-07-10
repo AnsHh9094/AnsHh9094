@@ -75,34 +75,6 @@ const ansh = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AnsHh9094/antiAFK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=antiAFK&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/AnsHh9094/nextjs-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=nextjs-commerce&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/AnsHh9094/folioss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=folioss&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/AnsHh9094/customer-reviews-ai-summary-nextjs-vercel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsHh9094&repo=customer-reviews-ai-summary-nextjs-vercel&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,16 +97,6 @@ const ansh = {
 <div align="center">
 
 [![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnsHh9094&bg_color=1a1b27&color=628fdb&line=6366f1&point=ffffff&area=true&hide_border=true&radius=16)](https://github.com/AnsHh9094)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AnsHh9094&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -245,11 +207,3 @@ xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx::.............................:::::.......
 ```
 
 
-<div align="center">
-
-### 💖 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-```
