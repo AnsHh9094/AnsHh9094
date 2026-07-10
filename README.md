@@ -1,19 +1,105 @@
+## 🧑💻 About Me
+
+```javascript
+const ansh = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    currentFocus: "Building innovative web applications",
+    learning: ["Next.js", "TypeScript", "AI/ML Integration"],
+    hobbies: ["Coding", "Gaming", "Learning New Tech"],
+    funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 Learning **Next.js, TypeScript & AI Integration**
+- 💬 Ask me about **JavaScript, React, Web Dev**
+- ⚡ Fun fact: **I turn caffeine into code** ☕
+- 🎯 Goal: **Contributing to Open Source**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Ansh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<!-- Typing Animation -->
-<a href="https://github.com/AnsHh9094">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<br/>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=AnsHh9094&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/AnsHh9094)
-[![GitHub followers](https://img.shields.io/github/followers/AnsHh9094?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27)](https://github.com/AnsHh9094?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/AnsHh9094?label=Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27)](https://github.com/AnsHh9094)
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnsHh9094&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnsHh9094&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsHh9094&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnsHh9094&bg_color=1a1b27&color=628fdb&line=6366f1&point=ffffff&area=true&hide_border=true&radius=16)](https://github.com/AnsHh9094)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=AnsHh9094&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 </div>
 
@@ -21,96 +107,96 @@
 
 <!-- ASCII Art -->
 ```text
-+xxxXxXxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxXXxxxxxxXXx$$$$$$$$$$&&&&&&&&&&&&&&&&&&&$&&&$&$$$$$$$&&&&&&&$$&$$$&&&&&&&$$$$$$$$&$$$$$$$&&$$$&&&&&&&$$&&&&&&&&&&&&&&&&&&&&&&$$$$$
-+xxxXXXxxxxxxxxxxxxxxxXxxxxxxxxXXXxxxxXXxXXxxxxxxXX$$$$$$&$&&&&$&&&$$$&&&&&&&&&$&$$$$&&$$$$$&&&&&&&$&&$$$&$&$$&&&&$$$$&&$$&&&&$&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$
-+xxxXxxxxxxxxxxxxXxxXxxxxxxxxXxxxxXXXXxxxxXxxXxxxxX$$$&&$$$&&$$$$$&&$$$&&&&&&&&&&$&&&&&$&$$&$&$$$&&&&&$&&$&&&&$&&&&&&$$&$$$&&&$$&&$&&&$&&&&&&&&&&&&&&&&&&$&&&$&&&&&$&&$$$$
-+XXxxXxxxxxXxxxxxxxxXxxxxxxxXxxxxxXXxxXxxxxxxXxxxxX$$&$$&&&$&&&&$&&$$$$&&$&&&$&&&&&&&&$$&$$&&&&&$&&$$$&&&$$$$$$$$$&&&&&&&&&&$$&&&&&&$&&$&&&$&&&&&&&&$&&&&&&&&&&&&$&&&&$$$$
-+xxXXXXXXxxxxxxXxxXxxxxxxxXxXxxXxXXXXXxXXxxXXxxXXXX$$&$&$&&&&$&&&&&&&&&&&&$$x:x$$$x;:.......:xX$$$$$$$$$$&&&&$$&&$$$$&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$
-+xxxxxXxxxxxXxxxxXxXXXxxXXXxXxXXXXXxxXxXXXXXXxXXxxXX$$$$$$$&&$$$$&$$&&$X+.................................;xX$&&&&$&&&$$&&&$&&&&&&&&&&&&&&$&&&&&&$&&&&&&&&&&&&&&&&&&&$$$$$
-+XXXXxXxXXXXXXXxxxXXXXXXxxXXxXXxxXXXxXXXxXXxxXXXXXXX$$$$$$$$&&&$$x:+$x:........................................+X$&&&&$$&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$
-xXXXXXXxXxxXXXxXXxXXxXXxxXxXXxxXXxxxXxXxXXXXXXxxXXxX$$$$$$&$&&$;...;..............................................:x$&&&&&&&&&&$&&&&&&&&$&&$&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$
-xXXXXXxXXXXXXXxXXxXxxXXxXXxxXXXxXXXxXXXxXxXXXXXxxxXX$$$&$$&&$;.......................................................;$&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&$$$$$$$
-+xXXXXXxxXXXXXxxXXxXXXXXXXXxxXXXxXXXxxXXXXXXxxXXXXXX$$$$$:$x:...........................................................x&&&&&$&$$&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$X$$$$
-xXXXxXXXXXXXXXXxXXXXXxXXxXXxXXXXXXxXXXXxXXXXXXXXXXXX$$$x..;...............................................................:$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$
-xXXXXXXXXxXXXXXXXXXXXxXXXXXXxXXXXXXXXXXXXXXXXXXXXXXX$$x......................................................................x$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$
-xXXXXXXxXXXXXXXXXXXXXXxXXxxXxXXxXXXXXXXXXXXXXXXXXXXx+x.........................................................................x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$
-+XXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;............................................................................;$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$
-+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx............................................................................:+;x&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$
-;xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXX;.............................................................................:$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$
-;xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXx................................................................................$&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$
-;xxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx.......................;+;;:.....::::::::::::...................................$&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;................:;x$&&$$Xxxx+++xxxxxxxxxxxXXXxx++;;:...........................:$&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxXXXXXXXXXXXXXXX$XXXXXXXXXXXXXXXXXXXXXXXXXXXXx+;;............:+xx$&&&&&&&&&$$$&&&&&&&&&&&&&$$$$$$xx++++;:.......................;&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$$
-;xxxXXXXXXXXXXXXXXX$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXx:...........+xxxxX$&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$xx+++;:.......................x&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$$
-;xxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:........;xxxXXXX&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$x;;::......................:$&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$$
-;xxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX$XXXXXXXXXXXXXx.........:;xXxXXXX$&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$x;;;::......................x&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxXXXXXXXXXXXX$XXX$XXXXXXXXXXXXXXXXXXXXXXXXXXx...........;xXXxXXxX$&&&&&&&&&&&&&&&&&&&&&&&&$$$&$&&$$x++;;::......................$&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxxXXXXXXXXX$XX$$$XXXXXXXXXXXXXXXXXXXXXX$XXXXX;..........:+XXXXXXX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$&X++++;::.....................;&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxxXXX$$XX$XX$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX..........;xxXXXX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&$x++xx+::.....................+&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxxxXXXX$XXXX$$$XX$$XXXXXXXXXXXXXXXXXXXXXXXXXXXx........:+xxXXX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$x+x+++x++;...................;$&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxxxXXXX$XXXXXX$XXXXXXXXXXXXXXXXXXXXXXXXXX$XXXXX;.......;+xxxX$&&&&&&&&&&&&&&&&&&&&&&&$$$$$Xx+;;:...;+xxx++xx;.................+&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$
-;xxxxxxxxXXXXXXXX$XXXXXXXXXXX$XXX$XXXXXXXXXX$XXXX$XXx......;++xxx$&&&&&&&&&&&&&&&&&&&$Xx+;:................:+xxxxxx;...............X&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$$X$
-;xxxxxxxxXX$XXXXX$XXXXXXXX$$XXX$XX$XX$X$X$XXXXXXX$XX$;....:+x+.............+x&&&&&&&&$x;:............:++;:...:+xxxxx;.............:$$$$$$X$XXXxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxX$X$$XX$X$$X$$XXX$XXXX$XXX$XX$XXXXXXXXXX$XXx....++:..............:+x$&&&&&&X+;:......;xxxxxxxxxxxxx;:+xxxxx.............+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxx$XXXXXXX$XX$$XXXX$$XX$XXXXXXXXXXXXXXXXX$$XX:...+:.:+xxxx+;;:....:;xx&&&&&$+;::::::..::;+;;;;;;;+xxxxxxxxxx:............xXxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxX$$$$X$$$XX$$X$$XXX$XXXXXXXX$XXXX$XXXX$XXXXx...;;;;;xx++xxx;....:::;&&&&&&x;:::::.;;::;;;;;+;:.;+xxxxxxxxx;...........xXXxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxX$$$$$$$$$$X$XX$XX$XX$XXXX$XXXXXXX$XX$XX$Xx...;+;;;.:++;;::..:..::+&&&&&$xx;:;x:..::...........:;xxxxXXXx;.........:;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxx$$$$$$X$X$$XXX$$XXXXX$$XX$XXXXXX$XXXXX$XXX+..:+;;...........;:;xxx&&&&&xxxxX$x;+xX$+...:+;;:::;xxX$&$$$$x......;x$$X$$XXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxX$$$XXX$X$$$$XXXXXXXXX$$XXXXXXX$XX$$$XXXXXxx.:x+:...:xx...:xXxxxxx&&&&XxxxxX&&Xxxxxxxxxxx+;;+xX$&&&&$$$$X...+X$$$$;..+$XxXxXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxx$$$$$$$$$$$$$$$$$X$XXXXX$$XXXX$XXXXX$$$Xxxx;:$$x;;;+xxxx++++X$$xX&&&&$XXXxX$&&&&&$Xxxxxxxxx$&&&&&&&$$$$$...$$$$;:xx:.X$XXXXxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxX$$$$X$$$$$XX$X$X$X$$XXXX$$XXXXXXXXXXXXx;;xx:$$$X;;;xxxxxX$&&$Xx$&&&&$$$$$$$$&&&&&&&$$$&&&&&&&&&&&$$$$$$:.;Xx++x$$$xxX$xxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxx$$$$$$X$X$$$$$$$X$$X$$XXX$$XXXXXXXXXXXx+;+x:$$$$$&&$$$$&&&&&$xx&&&&&$$$$$$&&&&&&&&&&&&&&&&&&&&&&&$$$$$X;.x+;+$$$$$xxx$XXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxX$X$$$$$$$$$$$$$X$$$$$X$XXXXXXX$XXXXXXx+xxx;X$$$&&&&&&&&&&&&xx&&&&&&&$$$$$&&&&&&&&&&&&&&&&&&&&&&&&$$xxxx+xx:.;x$$$xx$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxX$$$$$$$$$$$$$$$$$$$$XX$$$XX$$XX$$XXXxxxXxxx$$&&&&&&&&&&&&$x$&&&&&&&XXXXXx$&&&&&&&&&&&&&&&&&&&&&&xxxxxxxX$;::;+x$Xx&$XxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxx$$$$$$$$$X$$$$$$$$$$$$$XX$XXX$$XX$XXXxxxXxxX$&&&&&&&&&&&&xxxx$$$Xxxxxxxxx;$&&&&&&&&&&&&&&&&&&&&Xxxxxxxxx$xxx+xX$x$$XXxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxX$$$$$$$$X$$$$$$$$$$$$$$$X$$X$XX$$XXXXxxXxxxX$&&&&&&&&&&xx;.;xxxxx:...:;;:XX$&&&&&&&&&&&&&&&&$$xxxxxxxxx;x$$xx$xX$XXxXxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxXXX$$XX$$XX$$$$$$$$$XXXXX$X$$$$XX$$XXxxxxxxxX&&&&&&&&&&$;:...:;;::;;::::+&&&&&&&&&&&&&&&&&&$$$xxxxxxxxxx$$$$Xxx$XXXXxXXXxxxxxxxxxxXXxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxX$$$$XXXXXXXXXX$$$XXX$$XX$$$$$$$$$$$$X;xxxxxxX&&&&&&&&$$$x:;;;::;+xxxxX&&&&&&&&&&&&&&&&&&&$$$Xxxxxxxx$$&&&&$x$$XXXXXxxXxxxxxxxxxxXXxxxxXxxxxxXxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxXXXXXXX$$XX$XX$$$X$$$X$$$$$$$$$$$$$$$x+XXxxxxx&&&&&&$$$$$$xxx$x;xXX$$&&&&&&&&&&&&&&&&&&&&$$$xxxxxxxx&&&&&&&&$XXXXxxXXxXXXXXxXXXXxxXxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxXXXXX$XXX$XX$XXXXX$XX$$$$$$$$$$$$$$$$XxXXxxxxxx&&&&&&&&$$$$Xx$$$x$$&&&&&&&&&&&&&&&&&&&&&&&$$xxxxxxxx&&&&&&&XXXXxXXxXXxxXxXXxXxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxXXXXXX$XX$$XX$$$$$X$$$$$$$$$$$$$$$$$$XxXXxxxxxxX&&&&$&$$$$$XxX$$Xx+xxX$$$$$&$X$&&&&&&&&&&$xxxxxxxxx;x$&&&xxXXXXxxXxxXxXXxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxXXXXXXXXXX$XX$$$$$$$$$$X$$$$$$$$$$$$$$xxx;;xxxxx$&$XxxX$x;:;;;;;;;;;::::;+xxxxX$$&&&&$$$xxxxxxxxxx;....;xxXXXXXXxXXXxxxxXxxxxxXxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxX$X$$X$$$$$$$$$$$$X$$$$$$$$$$$$$$$$$$$$XXX;xxxxx$Xxx....:+x$$Xxx$$$$xxxxxx+xxxX$$$$$$xxxxxxxxxxx;....:xXXXXXXXXXXXXXxxxXxxxxxxxXxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxX$XXX$XXXXXXXX$XXX$$X$$X$$$$$$$$$$$$$$$$XXx;xxxxX$XxX$Xxxx$&&&&&&&&$XXX$$&&&&$X$$$$$Xxxxxxxxxxx;:....xXXXXXXXXXxXXxXXxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxXXX$XXXXXXXXX$X$$$$$$$$$$X$$$$$$$$$$$$$$$$$;;+xxx$$$$$$$$XxxxxxxxxxxX$&&&&&&&&&$$$$$xxxxxxxxxx;::...xXXXXXXXXXXXxXxXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxXXX$XX$$XXX$X$$$XXX$X$$$$$$$$$$$$$$$$$$$$$$x;;+xxxxX$$$$$$xx;;;;;;;xXX$$&&&&&$XX$$$$x+xxxxxx+:;;:..xXXXXXXXXXXXXXXXxXXxxxxxxxxxxxxxXxxxXxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxX$XXXXX$$XX$XXXX$XXX$$$$$$$$$$$$$$$$$$$$$$$x;;+xxxxxX$$XXxXx;;;;;+xXXXXX$$$$$XX$$$$x+++x+;::;;;;:xXXXXXXXXXXXXXXXXXXxxxxxXxxxxXxxxxXXxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxX$XXX$XXX$X$XX$X$$XXX$$$$$$$$$$$$$$$$$$$$$$Xx;;+xxxXXXXXXX$&&&&&&&&&&&$$XXXX$$XX$$X+++;:..:;;;+xxXXXXXXXXXXXxXXXxXXxxxxxxxXxxXXxxxxxXXXxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxXXX$XX$XX$$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X;;+xxXXXX$&&&&&&&&&&&&&&&&&$XXXXXXXXx;:....::;xxxxxXXXXXXXXXXXXXXXXxxxxxxxxxxXXxxxxxxxXxxXxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxX$XXXX$$XXX$$$$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$+;:;xxXxx$&&&&&&&&&&&&&&&&XXXXX$XX+:......:;xxxxxxxXXXXXXXXXXXXxxXXXXXxxxxxxXXXXXxxXxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxX$$$$$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$x+x;:;xxxxX&&&&&&$X&&&&&$xXXXXx;:..:....::+xxxxxxx&$XXXXXXXXxxXXxXxxXXxxXxxXXXXxxxxxxXxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxXX$X$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$x+xx+:..+xxx$$XXXXxxXXxxXXXx;.......:::::;xxxxxxxx&&XXXXXxXXXXXXxxxxxXxxxxxxXxxxxxxxxxxXXxxXxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxx$X$XXX$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$x;$Xxxxxx;:..:xxxxXXxxxxx+;+;........::::::;xxxxxxxxx&&$.xxXXxxXXXXXxXxxXxXxXXxxxXXXXXXxxxxxXxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxXX$$$$$$$$$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$X;.:&$xxxxxx+;:.......................:::::::xxxxxxxxx$&&&:.:xXXXXXXXXXxXXxXxxXXxxXxxxxXXXxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxX$$$$$XX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$+...x&&$xxxxxxx;;::.................:::::::::xxxxxxxxx&&&&&$...;XXXXXXXXxxxxxxXxxxxxxxxxxxxxXxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxX$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$x.....X&&&&xxxxxxx;;;;:::..........::;::::::::;xxxxxxxx&&&&&&&;....;XXXXxxXxxxxxxxXxXXXxxXxxXxxxXxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxx$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X:.....:&&&&&&$xxxxxxx;;;:::::.....:::::;;;;:::;xxxxxxx&&&&&&&&&;......+xXXXXXXXxxxxxXXxxXXxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxx$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X:.......+&&&&&&&&xxxxxxXXx;:::;;:;;;;;;;:;;;:::;+xxxxx$&&&&&&&&&&;........xxxxXXXXxxxxXXXxXXxxxxXXXXxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxX$$$$X$$$$$$$$$$$$$$$$$$$$$$Xx:..........;&&&&&&&&&$xxxxXXXXx;;::;;;;;;;;;;;;;;;+xxxx$&&&&&&&&&&&&..........:xxxxxXXXxXXxXxxxxxXxxxxxxXxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxX$$$$$$$$$$$$$$$$$$$$$$$x+...............:&&&&&&&&&&&$xxXXXXXXXx;;;;;;;;;;;;;+++xxxX&&&&&&&&&&&&&x.............;xxxXXXxxxXxxXxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxx$$$$$$$$$$$$$$$$$$$x;...................:&&&&&&&&&&&&&xxXX$XXXXXx;;;;;;;++++++xxX&&&&&&&&&&&&&&&..................;xXxXxxXXXXXXxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxxX$$$$$$$$$$$$$$x;.......................:$&&&&&&&&&&&&&&$XX$XXXX$$Xx;+++++++++x&&&&&&&&&&&&&&&&x......................xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxxX$$$$X$$$$$x:...........................:$&&&&&&&&&&&&&&&&$$X$$$$$$$x+++++++X&&&&&&&&&&&&&&&&&&..........................;xxxxxxxxxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxxX$$$$$Xx:................................$&&&&&&&&&&&&&&&&&&$$$$$X$$X++++x&&&&&&&&&&&&&&&&&&&&&..............................+xxxxxxxxxxxXxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxxxxx$xx:....................................x&&&&&&&&&&&&&&&&&&&&$$$$$$Xx+x&&&&&&&&&&&&&&&&&&&&&&+.................................:xxxxxxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxxxxxx+:.........................................x&&&&&&&&&&&&&&&&&&&&&&$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&......................................;xxxxxxxxxxxxx
-;xxxxxxxxxxxxxxxxx;:.............................................:&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x.........................................:+xxxXxxXxx
-;xxxxxxxxxxxxx;...................................................&&&&&&&&&&&&&&&&&&x......:::;$&&&&&&&&&&&&&&&&&&&&&:.............................................;xxxxxx
-;xxxxxxxx+:.......................................................x&&&&&&&&&&&&&&&&;............x&&&&&&&&&&&&&&&&&&&$:................................................:+xx
-;xxxxx+...........................................................;&&&&&&&&&&&&&&$...............:&&&&&&&&&&&&&&&&&&x::...................................................
-;xxxxx............................................................:x&&&&&&&&&&&&x..................X&&&&&&&&&&&&&&&X;::::.................................................
-;xxxx;.............................................................+X&&&&&&&&&&x....................+&&&&&&&&&&&&&&x::::.:................................................
-;xxxx..............................................................+x&&&&&&&&&$Xx...................x$&&&&&&&&&&&&$;::::::::::............................................
-;xxx;..............................................................+$$&&&&&&$XXX$X;...............:xXXx&&&&&&&&&&&X:::..::::::::..........................................
-;xxx...............................................................;$$&&&&&$$$$$&&&x.............;xXXxxx$&&&&&&&$$+......::::::::.........................................
-;xx:...............................................................:$$$&&&$$$$&&&&&&$...........xX$&&$xxxX&&&&&$$$...........::::.........................................
-;x;.................................................................X$$$$$$$&&&&&&&&&&.........X$&$&&&&&Xxx$&&$$$;...........:.:.::.......................................
-;x:.................................................................+$$$$$&&&&&&&&&&&x.........X$$$&&&&&&&$XXX$$$...........:.:::::.......................................
-;+..................................................................:$$$&&&&&&&&&&&&&..........+$$$&&&&&&&&&$$X$x.........................................................
-;:...................................................................$&&&&&&&&&&&&&&;...........$$$&&&&&&&&&&&&$:.........................................................
-;....................................................................$&&&&&&&&&&&&&$............;$$&&&&&&&&&&&&X:.........................................................
-.....................................................................+&&&&&&&&&&&&&:.............X&&&&&&&&&&&&&+..........................................................
-.....................................................................:&&&&&&&&&&&&;..............:&&&&&&&&&&&&&;..........................................................
-......................................................................x&&&&&&&&&&X................$&&&&&&&&&&&$:..........................................................
-......................................................................x&&&&&&&&&&+................x&&&&&&&&&&&x...........................................................
-......................................................................;$&&&&&&&&$.................x&&&&&&&&&&$:...........................................................
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X
+xxxxXxxxxxxxxxxxxxxxxxxxXXxxxxxxxxxxxxX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X
+xxxxxxxxXxxxxxxxxxxxxxxxxxXXxXxxxXXxxxX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XX
+xxxXXXxxxxxxxxxXxxxxXxxxxxXXxxXXxXxxXxx$$$$$$$$$$$$$$$$$$Xx;XXx+;:....:+xX$$XXxX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXX
+xxxxxxxxXxxxxXxxXXxXXxxXXXxxXXxXXxxXXXxX$$$$$$$$$$$x$$x::::::::......::::::.......;x$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXX
+xXXXxXXxxXXxxxXXxXxxXXxxxxxxXXxxXXxxxXXX$$$$$$$$$;.x;:::.:::.....:::::::..........:::::x$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXX
+xXXXxxxXXXxxXxXxxxxXxXXXxxXxxXxxXXXXxxXX$$$$$$X:...:::...::...:;;;::...................::;X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XX$X
+xxxXXXxXxxXXXxxXXXXXxxXXXXXxxXXXXXxXXxXX$$$+X+::...:....:...::;::...::::::::.........:::::::+X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXX
+xXXxxXXxXXxXXXXxxXxxXXxxXXxXXxXxXxXXXXxX$$:.::::............::......::::.....:::::::.........::x$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXXX
+xXXxXxxXXXXXXXXxxXXxxXXxxXXXxxXXXXXxxXXxX;..::::...................:.....:::::::...::::......:..:X$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXX$
+xxXXXXxXXxXXXxXXXXXXXXXXXXXXXXXxXXXXXXx;:....::::...........:...........:::;:....:::::::::.....:.:;$$$$$$$$$$$$$$$$$$$$$$$$XX$XXXX
+xXxXXXXXXXXXXXXXXXXXXXXXXXXXxxXXXXXXXXx:::.....::::........::...........:......::::::::..........:$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXX
+xXXXXxXXXXXXXXXXXXXXXXXXxXxxXXXxxXXXxx;::::......:.................................................x$$$$$$$$$$$$$$$$$$$$$$XXXXXX$$
+xxXXXXXXxXXXXXXXXXXXXXXXXXXXXxxXXXXXXXx:::::..........:;+xxx;;;;+++++++++;;::.......:::.............x$$$$$$$$$$$$$$$$$$$$XXXX$XXXX
+xxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx....:.....;xx$$$$$$XxxxXX$$$$$$$$$$xxxxx+;::::::::..........x$$$$$$$$$$$$$$$$$$$XX$XX$XXXX
+xxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx:........;xxxx$$$$$$$$$&&&&&&&&&&$$$$$$$xxxx;:::::::...........$$$$$$$$$$$$$$$$$$$$X$XXXXX$X
+xxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx:.::::;xxxXXX$$$$$$$$&&&&&&&&&&&$$$$$$$$X+;;;..:::...........+$$$$$$$$$$$$$$$$$$XX$XXX$XXX
+xxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;...::::;xxXxXX$$&$$$$&&&&&&&&&&&&$$$$$$$$xx+;;....:...........;$$$$$$$$$$$$$$$$$$$XXX$XXXXX
+xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+..::...;+XXXxxX&&&&&&&&&&&&&&&&&&&$$$$$$xxxx;;................x$$$$$$$$$$$$$$$$$$$$X$X$XXXX
+xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX::.....;xxXXX$$$&&&&&&&&&&&&&&&&&&&$$$$Xxxxx+;:.......::::...:x$$$$$$$$$$$$$$$$$$$$X$XXX$X$
+xxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx:.....+xxXX$$$$$&&&&&&&&&&&&&$$$$$$$$xxxxxxxxx:......:::....+$$$$$$$$$$$$$$$$$$$$X$XXXXXXX
+xxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+....;xxxx$$$$$$$&&&&&&$$$XXXx;::..::::::;xxxxxx:...::.:....x$$$$$$$$$$$$$$$$$$$XXXXXXXXXX
+xxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:..:xx;::::::::;+X$$$$$$Xx;::......:;x+;:::xxxxx:....::...:$$$$XXXXXxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;..x+::::.......;xx$$$$$xx;::;;;xxxxxxxxxxxxxxxxx:........;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx..x;+xxxxxx+;;;;;+X&&&$+;;;;;;+xxXxx+;;+xxxxxxxx::.......xxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx:.;x++;;xxx+;;;;;;X&&&$xx;;+;:;:...:::::;xxxxXxx::.....:;Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx.:x+;:.;:...:x:Xx$&&&xxxX$xxx$X;;;xx+;xxxX&$XXX;...;X$$x$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx:Xx;:+xxxxxxxxXx$&&XxxxX$&$Xxxxxxxxxx$&&&&$$$$;.x$$$x;::XXxXXxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxX$XXXXXXXXXXXXXXXXXXXXXXXXXXXXxxx:$$X++xxxxx$$$xx&&&XXXXX$$&&&&$$$$&&&&$$&&XX$$+:xXxxx$XxxXxXxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx+x;X$$$$$$$$$$$$xX&&&$$XX$$$&&&&&&&&&&&&&&&&$X$Xx:x+x$$$$xx$xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxx$$&&&&&&&&&xX&&&&&$XXX$$$&&&&&&&&&&&&&&&$Xxxxx$+;;x$$x$$xxxxxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxXxX$&&&$&&&&$xxX$&$xxxxxxx$&&&&&&&&&&$$$$$xxxxxx$XxxxxXX$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXxxx$&&&&&&&&x+:+xxx+:.:+++X$&&&&&&&&$$$$$$xxxxxxxxXXx$x$xXxxxxxxxxxxxxxXxxxxxxxxxxxxxx
++xxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxx$&&&&&$$X;;;;;;;xx;;+$$$&&&&&&&&$$$$$Xxxxxxxx$$$Xx$XxXXxXXxxxxxxxXxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxx$&&&$$$$$Xxxx+xXXX$$$$$$&&&&&&$$$$$$xxxxxx$&&&&$$XXxxxxxxxXxxxXxxXxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXXxxxx$&$$$$$$$$x$$xX$$$$$$$$$$&&&&$$$$$$xxxxxx&&&&$XXXxxXxXxxXXxXxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXX$XXXXXxXXxxxxx$$$X$$$XxxxXx+;+xxX$$$xX$&&&&$$$xxxxxxx;;x$$xXXXxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXX$Xxxxxxxxx$Xx++;;;++++xxx+;;;;:+xX$$$$$xxxxxxxx+...+XXXxXXXxXXxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXX$XXXXXx+xxxXXxXXxxx$$$$$$$XxX$$$$$X$$$$xxxxxxxx+;..+XXXXXxxxXxxxXxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXX$XXX$XX$XXXx+xxxXX$$$$$xxxxxxxX$$$$$$$$$$$Xxxxxxxx;;;.;xXXxxXXXxXxXxxxxxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxXXXXXXXXXXXXXXXX$XXXX$$XX$$X$$XXXx+xxxxX$$$Xxx+++xxXXXX$$$XXX$$xxxxxx+;;;;;XXXxXXxXXXXXXXxxxxxxxxxxxxXxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXX$XXXXXX$$XXX$$XXX++xxxxxXXxX$&&&&&&$$XXXXXXXX$xxx+;:;++xxXXXXXXxxXxxxXxxxxxxXxXXxxxxXxXxxxxxxxxxx
+xxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXX$XXXX$XXx+xxXXx$&&&&&&&&&&&&$XXXXXXx+;;::;+xxxxXXXxXXxXXxXXxxxxxxxxXxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXX$$$XXXXXX$$X$$$xx;+xxxX&&&&&&&&&&&XxXXXXx;;;;;;;xxxxxXXXXXXxXXxXXxXXxxxxxxXXXxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxXXXXXXXXXX$XXXXX$XXXXX$XXXXXXX$XXX$xxxx;;xxxX&XXXxXXXxXXX+:::;;;;;;xxxxxx$&XXXxxxxXxxxxxXXxxxXxxxxxxxxXxxxxxxxxxxx
++xxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXX$XX$XX$x+Xxxxx+;:;xxxXxxxx++;::::::;;;;;xxxxxxx$&X;xxXXxXXXxxxxxxXxxxXxXXxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXX$XXXXX$Xx:.$$xxxxxx;;:::::::::::::::;;;;;;+xxxxxxX&&&:.+XXXXXxXXxxxxxxxxXxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxXXXXXXXX$XXXXXXX$XX$X$$XX$$XX;..;&&&Xxxxxx;;;;::::::::::;;;;;;;+xxxxxx$&&&&x...xXXxxXxxxxXxXXxxxxxXxXxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxXXXXXXXX$XXXXXXX$XXXXXXXXXX+....x&$&&$xxxxxx+;;;;;:::;;;;;;;;;;xxxxxx&&&&&&$....:xxxxxXXxxxxxXxXxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxxXXXXXXX$$$XXX$XXXXXXXX$X;:.....x$$&&&&XxxxXXx+;;;;+++++;+;;;;+xxxx&&&&&&&&X......;xxXXxxxxxXxxXxxxXxXXxxxxxxxxxx
++xxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX$$$XXx;:.::......x&&&&&&&&xxxXXXXx;;++++++x+xxxxxx&&&&&&&&&&;........;xxxXXXxxxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX$x;:....::.......x&&&&&&&&&$xXXXXXXx++xx+xxxxxxx$&&&&&&&&&&$.........::.:;xxxxxXxXXxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxxXXXXXXXXXXXx;........::........+&&&&&&&&&&&$XXXXXXXXxxxxxxxx$&&&&&&&&&&&&;..........::....:xxxxxxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxxxXXXXXXx;...........::.........+&&&&&&&&&&&&&$XXXXXXXxxxxx&&&&&&&&&&&&&&&............:........;xxxxxxxxxxxxxxxxx
++xxxxxxxxxxxxxxxxxx$Xx:.............:::..........:&&&&&&&&&&&&&&&$XXXXXxx$&&&&&&&&&&&&&&&&x............::..........:+xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx;:................:::............&&&&&&&&&&&&&&&&&$$$$&&&&&&&&&&&&&&&&&&&;.............::.............:xxxxxxxxxx
++xxxxxxxxxxxx;:...................:::.............x&&&&&&&&&&&&&&xxxX$$$&&&&&&&&&&&&&&&&&$..............:::...............:;xxxxxx
+xxxxxxxx+:.......................:::.............:;&&&&&&&&&&&&$:.....:::x&&&&&&&&&&&&&&&x:..............:::..................:xxx
++xxxx:..........................:::............::::$&&&&&&&&&&x.....:::::::&&&&&&&&&&&&&$;;;..............:::....................:
++xxx;..........................:::::.........::::::+&&&&&&&&&:......::::....X&&&&&&&&&&&x;;;;;............:::.....................
+xxxx:.............................::::....:::::::::+x&&&&&&&Xx......:::.....;$&&&&&&&&&$;;;;;;;;:.........::::....................
++xx;..................................:::::::::::::+X$&&&&$XXXX:....::.....xXxX&&&&&&&$$;;;;;;;;;;:...::::........................
++xx:.................................::::::::::::::;XX&&&$XX$&&$;...:....:xX$Xxx$&&&&$$+;;;;;;;;;;;;:.............................
++x;...............................::::::::::::::::::XX$$XX$&&&&&&x......:X$$&&$XxX&&$$x::::;;;;;;;;;;;:...........................
++x:............................:::::::::::::::::::::xXXX$&&&&&&&&x...:::;$$$&&&&&XXX$$x:::::::;;;;;;;:::::........................
++;...........................:::::::::::::::::::::::+X$&&&&&&&&&$....:.:.x$$&&&&&&&$X$;::::::::::;;:::::::::......................
+;.............................::::::::::::::::::::::;$&&&&&&&&&$;...:::::+X$&&&&&&&&&x::::::::::::::::::::::::....................
+:.............................:::::::::::::::::::::::$&&&&&&&&&x....::::::X$&&&&&&&&&;::::::::::::::::::::::::....................
+...............................::::::::::::::::::::::x&&&&&&&&$.......:::::$&&&&&&&&$::::::::::;::;::::::::::.....................
+................................:::::::::::::::::::::;&&&&&&&&+.........::.$&&&&&&&&x::::::;::::::::;::::::.......................
+.................................:::::::::::::::::::::$&&&&&&&:............$&&&&&&&&;:::::;::::::::::::::::.......................
+```
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+```
