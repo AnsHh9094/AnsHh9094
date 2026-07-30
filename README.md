@@ -1,26 +1,41 @@
 <div align="center">
 
-<h3><code>AnsHh9094@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
 
-<br><br>
+<h3><code>ansh@github ~ $ whoami</code></h3>
 
-<h3><code>AnsHh9094@github ~ $ whoami</code></h3>
 <table>
-  <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ascii portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch info card" /></td>
-  </tr>
+<tr>
+<td valign="top"><img src="./ansh-ascii.svg" width="370" alt="Anand Ansh — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="ANSH — 3D ASCII wordmark" /></td>
+</tr>
 </table>
 
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>ansh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Ansh's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>ansh@github ~ $ ./links.sh</code></h3>
+
+<p><b>Full-Stack & AI Engineer · Open-Source Builder</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aanshh.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aanshh.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnshH9094-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshh9094)
+[![Linktree](https://img.shields.io/badge/Linktree-AnsHhh.cx-22d3ee?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Anshhh.cx)
+
+<br>
+
 </div>
-
-<!--
-  This README is intentionally just a layout. All the motion lives inside the
-  three SVGs (GitHub strips <script> and inline CSS but renders SVG animations
-  embedded via <img>). See SETUP.md to regenerate the art.
-
-  Width math: heatmap 860 == 370 (portrait) + 490 (card) so the edges line up.
-  Vertical spacing: only <br> works on GitHub; inline style is stripped.
-  Use <h3> for prompts so you don't get the full-width <h1>/<h2> underline.
--->
