@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- GitSkins Frosted Persona Card — cinematic glass hero banner -->
+<!-- Frosted Persona Card — cinematic glass hero banner -->
 
 <a href="https://www.gitskins.com/showcase/AnsHh9094?skin=frosted">
-  <img src="https://www.gitskins.com/api/premium-card?username=AnsHh9094&theme=winter&variant=persona" width="860" alt="AnsHh9094's GitSkins Frosted Profile" />
+  <img src="./frosted-persona.svg" width="860" alt="Anand Ansh Frosted Persona Profile Card" />
 </a>
 
 <br>
