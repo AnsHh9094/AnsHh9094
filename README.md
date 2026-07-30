@@ -36,6 +36,20 @@
 <br>
 <br>
 
+<!-- GitSkins stats & language mix cards side-by-side -->
+
+<h3><code>ansh@github ~ $ ./stats.sh</code></h3>
+
+<table>
+<tr>
+<td valign="top" align="center"><img src="./stats.png" width="480" alt="GitHub Stats" /></td>
+<td valign="top" align="center"><img src="./languages.png" width="360" alt="Language Mix" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
 <h3><code>ansh@github ~ $ ./links.sh</code></h3>
 
 <p><b>Full-Stack & AI Engineer · Open-Source Builder</b></p>

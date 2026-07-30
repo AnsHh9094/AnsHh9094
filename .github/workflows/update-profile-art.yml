@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the contribution graph SVG daily from real data.
+# Refreshes the contribution graph SVG, stats, and languages daily.
 # Runs daily, plus whenever you push to main, plus on-demand.
 
 "on":
@@ -32,8 +32,20 @@ jobs:
       - name: Render animated contribution graph SVG
         run: python scripts/generate_streak_svg.py AnsHh9094 contrib-heatmap.svg
 
+      - name: Fetch latest GitSkins Stats and Languages cards
+        run: |
+          python -c "
+          import requests
+          r1 = requests.get('https://www.gitskins.com/api/stats?username=AnsHh9094&theme=winter')
+          if r1.status_code == 200:
+              open('stats.png', 'wb').write(r1.content)
+          r2 = requests.get('https://www.gitskins.com/api/languages?username=AnsHh9094&theme=winter')
+          if r2.status_code == 200:
+              open('languages.png', 'wb').write(r2.content)
+          "
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution graph, stats, and languages [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.png languages.png"
