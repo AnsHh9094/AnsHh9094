@@ -1,5 +1,13 @@
 <div align="center">
 
+<!-- GitSkins Frosted Persona Card — cinematic glass hero banner -->
+
+<a href="https://www.gitskins.com/showcase/AnsHh9094?skin=frosted">
+  <img src="https://www.gitskins.com/api/premium-card?username=AnsHh9094&theme=winter&variant=persona" width="860" alt="AnsHh9094's GitSkins Frosted Profile" />
+</a>
+
+<br>
+
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
      wordmark (wipes in left-to-right, then rocks on its vertical axis).
      widths are picked so both panels land at the same height.
@@ -33,7 +41,8 @@
 <p><b>Full-Stack & AI Engineer · Open-Source Builder</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aanshh.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aanshh.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnshH9094-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshh9094)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand_Ansh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ansh9097/)
+[![GitHub](https://img.shields.io/badge/GitHub-AnsHh9094-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnsHh9094)
 [![Linktree](https://img.shields.io/badge/Linktree-AnsHhh.cx-22d3ee?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Anshhh.cx)
 
 <br>

@@ -23,7 +23,7 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---- geometry / grid ------------------------------------------------------
-COLS = int(os.environ.get("WORDMARK_COLS", 50))
+COLS = int(os.environ.get("WORDMARK_COLS", 58))
 ROWS = 0               # derived from the art -- see fit()
 ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 5))
 CELL_W = 9.0
@@ -33,16 +33,16 @@ CELL_H = 15.5
 FONT_CANDIDATES = [
     os.environ.get("WORDMARK_FONT", ""),
     "/System/Library/Fonts/Futura.ttc",          # macOS
+    "C:/Windows/Fonts/impact.ttf",               # Windows Impact (even stroke weight)
     "C:/Windows/Fonts/arialbd.ttf",              # Windows Arial Bold
-    "C:/Windows/Fonts/impact.ttf",               # Windows Impact
     "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",  # Linux
     "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",  # Linux alt
 ]
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))
 TEXT = os.environ.get("WORDMARK_TEXT", "ANSH")
 
-MASK_H = 300
-TRACKING = 0.14
+MASK_H = 350
+TRACKING = 0.22
 LINE_GAP = 1.20
 DEPTH_FRAC = 0.34
 TILT_DEG = float(os.environ.get("WORDMARK_TILT", 4.0))
