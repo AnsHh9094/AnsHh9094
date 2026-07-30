@@ -1,0 +1,38 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC daily
+  workflow_dispatch: {}
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Scrape contributions
+        run: python scripts/fetch_contributions.py AnshH9094 data/contributions.json
+
+      - name: Render heatmap SVG
+        run: python scripts/render_heatmap_svg.py data/contributions.json contrib-heatmap.svg
+
+      - name: Auto-commit refreshed heatmap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"
