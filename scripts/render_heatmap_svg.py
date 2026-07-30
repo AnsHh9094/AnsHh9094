@@ -9,7 +9,7 @@ PALETTE = [
     "#006d32",  # Level 2
     "#26a641",  # Level 3
     "#39d353",  # Level 4
-    "#69f0a0",  # Level 5 (Top neon peak)
+    "#69f0a0",  # Level 5
 ]
 
 def render_heatmap_svg(json_path="data/contributions.json", output_svg="contrib-heatmap.svg"):
@@ -28,77 +28,90 @@ def render_heatmap_svg(json_path="data/contributions.json", output_svg="contrib-
 
     # Dimensions
     svg_width = 860
-    svg_height = 180
-    cell_size = 11.5
-    cell_gap = 3.5
-    start_x = 35
-    start_y = 45
+    cell_size = 11
+    cell_gap = 3
+    margin_left = 30
+    margin_top = 20
+    grid_height = 7 * (cell_size + cell_gap)
+    footer_height = 30
+    svg_height = margin_top + grid_height + footer_height + 10
 
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_width} {svg_height}" width="{svg_width}" height="{svg_height}">')
-    svg.append('  <style>')
-    svg.append('    .bg { fill: #0d1117; rx: 10px; ry: 10px; stroke: #30363d; stroke-width: 1; }')
-    svg.append('    .header-text { font-family: "Fira Code", monospace; font-size: 13px; fill: #58a6ff; font-weight: bold; }')
-    svg.append('    .stat-title { font-family: "Fira Code", monospace; font-size: 11px; fill: #8b949e; }')
-    svg.append('    .stat-val { font-family: "Fira Code", monospace; font-size: 11px; fill: #39d353; font-weight: bold; }')
-    svg.append('    .month-text { font-family: "Fira Code", monospace; font-size: 10px; fill: #8b949e; }')
-    svg.append('    ')
-    svg.append('    @keyframes diagonalEntrance {')
-    svg.append('      from { opacity: 0; transform: scale(0.3); }')
-    svg.append('      to { opacity: 1; transform: scale(1); }')
-    svg.append('    }')
-    svg.append('    .cell { transform-origin: center; animation: diagonalEntrance 0.35s ease-out forwards; opacity: 0; }')
-    svg.append('  </style>')
+    svg.append('  <defs>')
+    svg.append('    <style>')
+    svg.append('      .bg { fill: #0d1117; }')
+    svg.append('      .prompt-text { font-family: "Courier New", Courier, monospace; font-size: 12px; fill: #79c0ff; font-weight: bold; }')
+    svg.append('      .stat-text { font-family: "Courier New", Courier, monospace; font-size: 10px; fill: #8b949e; }')
+    svg.append('      .stat-val { font-family: "Courier New", Courier, monospace; font-size: 10px; fill: #39d353; font-weight: bold; }')
+    svg.append('      .legend-text { font-family: "Courier New", Courier, monospace; font-size: 10px; fill: #8b949e; }')
+    svg.append('    </style>')
+    svg.append('  </defs>')
 
-    # Background card
-    svg.append(f'  <rect width="{svg_width}" height="{svg_height}" class="bg"/>')
+    # Background
+    svg.append(f'  <rect width="{svg_width}" height="{svg_height}" rx="10" ry="10" class="bg"/>')
+    svg.append(f'  <rect width="{svg_width - 2}" height="{svg_height - 2}" x="1" y="1" rx="10" ry="10" stroke="#30363d" stroke-width="1" fill="none"/>')
 
-    # Header title line
-    svg.append(f'  <text x="20" y="28" class="header-text">❯ ./contributions.sh --user {username}</text>')
+    # Organize days into 53 columns x 7 rows
+    # Pad so last day lands at bottom-right
+    if days:
+        # Find day-of-week for first entry (0=Mon, 6=Sun)
+        first_date = datetime.strptime(days[0]["date"], "%Y-%m-%d")
+        first_dow = first_date.weekday()  # 0=Mon
+        # GitHub uses Sun=top, so convert: Sun=0, Mon=1, ..., Sat=6
+        first_dow_gh = (first_dow + 1) % 7
 
-    # Calculate 53 weeks x 7 days
-    # Map days into columns based on week index
-    num_days = len(days)
-    weeks = []
-    current_week = []
-    
-    for i, d in enumerate(days):
-        current_week.append(d)
-        if len(current_week) == 7 or i == num_days - 1:
-            weeks.append(current_week)
-            current_week = []
-            
-    # Render Heatmap grid
+        # Pad start with empty cells
+        padded = [{"date": "", "count": 0, "level": 0}] * first_dow_gh + days
+
+        # Split into weeks of 7
+        weeks = []
+        for i in range(0, len(padded), 7):
+            weeks.append(padded[i:i+7])
+
+        # Limit to last 53 weeks
+        if len(weeks) > 53:
+            weeks = weeks[-53:]
+    else:
+        weeks = []
+
+    # Render grid
     for col_idx, week in enumerate(weeks):
         for row_idx, day in enumerate(week):
-            x = start_x + col_idx * (cell_size + cell_gap)
-            y = start_y + row_idx * (cell_size + cell_gap)
-            
+            x = margin_left + col_idx * (cell_size + cell_gap)
+            y = margin_top + row_idx * (cell_size + cell_gap)
+
             level = day.get("level", 0)
             color = PALETTE[min(level, len(PALETTE) - 1)]
-            
-            delay = round((col_idx + row_idx) * 0.012, 3)
-            
+
+            # Diagonal stagger for entrance animation
+            delay = round((col_idx + row_idx) * 0.008, 3)
+
             svg.append(
                 f'  <rect x="{x:.1f}" y="{y:.1f}" width="{cell_size}" height="{cell_size}" '
-                f'rx="2.5" ry="2.5" fill="{color}" class="cell" style="animation-delay: {delay}s;">'
-                f'<title>{day["date"]}: {day["count"]} contributions</title></rect>'
+                f'rx="2.5" ry="2.5" fill="{color}" opacity="0">'
+                f'<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="{delay}s" fill="freeze"/>'
             )
+            if day.get("date"):
+                svg.append(f'    <title>{day["date"]}: {day["count"]} contributions</title>')
+            svg.append('  </rect>')
 
-    # Footer stats & Legend
-    footer_y = start_y + 7 * (cell_size + cell_gap) + 20
-    
-    # Left stats summary
-    stats_str = f"Total: {total_contribs:,} | Current Streak: {current_streak} days | Longest: {longest_streak} days"
-    svg.append(f'  <text x="35" y="{footer_y}" class="stat-title">{stats_str}</text>')
+    # Footer: Stats left, Legend right
+    footer_y = margin_top + grid_height + 18
 
-    # Right side legend ("Less" -> boxes -> "More")
-    legend_x_end = svg_width - 35
-    svg.append(f'  <text x="{legend_x_end - 110}" y="{footer_y}" class="month-text">Less</text>')
+    # Stats
+    svg.append(f'  <text x="{margin_left}" y="{footer_y}" class="stat-text">'
+               f'Total: <tspan class="stat-val">{total_contribs:,}</tspan>'
+               f'  |  Current Streak: <tspan class="stat-val">{current_streak} days</tspan>'
+               f'  |  Longest: <tspan class="stat-val">{longest_streak} days</tspan></text>')
+
+    # Legend (right side)
+    legend_x = svg_width - 130
+    svg.append(f'  <text x="{legend_x}" y="{footer_y}" class="legend-text">Less</text>')
     for idx, c in enumerate(PALETTE[:5]):
-        lx = legend_x_end - 80 + idx * 13
+        lx = legend_x + 30 + idx * 14
         svg.append(f'  <rect x="{lx}" y="{footer_y - 9}" width="10" height="10" rx="2" fill="{c}"/>')
-    svg.append(f'  <text x="{legend_x_end - 10}" y="{footer_y}" class="month-text">More</text>')
+    svg.append(f'  <text x="{legend_x + 30 + 5 * 14 + 2}" y="{footer_y}" class="legend-text">More</text>')
 
     svg.append('</svg>')
 
